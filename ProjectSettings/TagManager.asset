@@ -5,6 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Endereco_Ip
+  - Preco
+  - Aluguel
+  - Hipoteca
+  - Descricao
+  - Vpn1
+  - Vpn2
+  - Vpn3
+  - Vpn4
+  - Datacenter
   layers:
   - Default
   - TransparentFX
